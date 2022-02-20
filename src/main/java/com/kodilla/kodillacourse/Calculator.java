@@ -13,6 +13,8 @@ public class Calculator {
     // druga metoda - odejmowanie
     public int subtractAFromB(int a, int b) {
         return b - a;
-    }
 
+        // (bez tworzenia obiektu i deklarowania argumentów)
+
+    }
     }
